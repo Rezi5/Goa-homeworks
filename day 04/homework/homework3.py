@@ -17,3 +17,6 @@ elif grade > 40:
 
 elif grade > 30:
      print("შეფასებაა F")
+
+else:
+     print("you did not pass")
