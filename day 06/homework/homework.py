@@ -4,8 +4,16 @@ for num in range(1,num +1):
   if num % 2 == 1:
     count += num
     print("kenti ricxvebis jami", num,)
+ 
 
 
+ 
+num = int(input("enter num"))
+count = 0
+for num in range(1,num,+1):
+    if num / 2==5:
+        count += num
+        print("ricxvebis jami:", num)
 
 
 password = 3 
