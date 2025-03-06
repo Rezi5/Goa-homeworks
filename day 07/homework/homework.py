@@ -1,4 +1,4 @@
-num = int(input("enter num"))
+num = int(input("enter num:"))
 for i in range(1,num):
     if num % i == 0:
         print(i)
@@ -7,6 +7,7 @@ for i in range(1,num):
 
 
 (1 and 0) or (1 and 1) and (0 or 0)  #False
+
 
 
 
